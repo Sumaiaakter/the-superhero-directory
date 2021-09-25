@@ -1,6 +1,6 @@
 .icon{
     text-align: center;
-    margin-left: 30px;
+    margin-left: 10px;
     display: inline-block;
     padding: 10px 30px ;
     width: 100px;
@@ -10,4 +10,8 @@
 .card-title{
     color: rgb(139, 8, 47);
     font-size: xx-large;
+}
+.btn{
+    background-color: darkgoldenrod;
+    color: black;
 }

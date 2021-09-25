@@ -29,7 +29,7 @@ const Cars = (props) => {
                             <p className="card-text"><small>{stock} left</small></p>
                             <button
                                 onClick={() => props.handleAddToCart(props.car)}
-                                className="btn btn-dark">{icon} Add to Cart</button>
+                                className="btn">{icon} Add to Cart</button>
 
                         </div>
                     </div>
@@ -37,7 +37,7 @@ const Cars = (props) => {
                 <div className="d-flex">
                     <h1><i className="fab fa-cc-apple-pay icon"></i></h1>
                     <h1><i className="fab fa-cc-paypal icon"></i></h1>
-                    <h1><i className="fab fa-cc-stripe icon"></i></h1>
+
                 </div>
             </div>
 
