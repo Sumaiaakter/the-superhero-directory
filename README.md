@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Inauguration Sumaia's Autos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-Sumaiaakter/edit/main/README.md).
 
 ## Available Scripts
 
@@ -13,6 +13,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+### `my comments`
+you can purchse any car here.
+When you click on button you will see the car name.
+You can add total with tax easily.
+
 
 ### `npm test`
 
