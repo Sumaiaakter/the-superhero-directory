@@ -1,15 +1,22 @@
+.car{
+    background-color: rgb(199, 202, 202);
+    
+    padding: 10px;
+}
+
+
 .icon{
     text-align: center;
-    margin-left: 10px;
+    margin-left: 5px;
     display: inline-block;
-    padding: 10px 30px ;
+    padding: 5px 5px ;
     width: 100px;
     /* background-color: goldenrod;
     color: black; */
 }
 .card-title{
     color: rgb(139, 8, 47);
-    font-size: xx-large;
+    font-size: x-large;
 }
 .btn{
     background-color: darkgoldenrod;

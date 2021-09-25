@@ -16,12 +16,12 @@ const Cars = (props) => {
 
     return (
         <div className="col-md-6 mx-8">
-            <div className="card mb-3" style={{ "max-width": "540px" }}>
+            <div className="card mb-3 car" style={{ "max-width": "540px" }}>
                 <div className="row g-0">
                     <div className="col-md-7">
                         <img src={img} className="img-fluid rounded-start" alt="..." />
                     </div>
-                    <div className="col-md-5">
+                    <div className="col-md-5 car">
                         <div className="card-body">
                             <h5 className="card-title"><small>{name}</small></h5>
                             <h5 className="company"><small>{company}</small></h5>

@@ -1,4 +1,5 @@
 import React from 'react';
+import './Cart.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 
@@ -18,7 +19,7 @@ const Cart = (props) => {
     const tax = total * .1;
     const grandTotal = total + tax;
     return (
-        <div>
+        <div className="cart">
             <h5>
                 {icon}: {props.cart.length}</h5>
             <ul>
