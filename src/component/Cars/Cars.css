@@ -1,0 +1,13 @@
+.icon{
+    text-align: center;
+    margin-left: 30px;
+    display: inline-block;
+    padding: 10px 30px ;
+    width: 100px;
+    /* background-color: goldenrod;
+    color: black; */
+}
+.card-title{
+    color: rgb(139, 8, 47);
+    font-size: xx-large;
+}

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cars from '../Cars/Cars';
 import Cart from '../Cart/Cart';
+import './Shop.css';
 
 const Shop = (props) => {
     const [cars, setCars] = useState([]);
@@ -22,7 +23,7 @@ const Shop = (props) => {
     return (
         <div>
             <div className="row">
-                <div className="col-md-9">
+                <div className="col-md-9 mx-14">
 
                     <div className="row">
                         {
